@@ -1,6 +1,6 @@
 # europass-cv
 
-Create or edit a Europass CV in the Candidate XML format that the official europass.europa.eu editor imports (2020 format, HR-XML 3 based). Use when asked to produce, convert, fix or check a Europass CV/XML/PDF for import into Europass, or when an import "shows only personal data" or is rejected as an old format.
+Schema, reference, tools and an agent skill for the Europass Candidate XML format, the CV format the europass.europa.eu editor imports and exports.
 
 Documentation, an unofficial XSD, tooling and an agent skill for the
 **Europass Candidate** XML format: the CV format that the Europass editor at
